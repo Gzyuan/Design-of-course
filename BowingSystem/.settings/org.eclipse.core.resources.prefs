@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//data/\u9009\u624B\u6210\u7EE9.dat=UTF-8
+encoding//data/\u9009\u624B\u8D44\u6599.dat=UTF-8
+encoding//src/com/buffer/PlayerBuffer.java=UTF-8
+encoding//src/com/controller=UTF-8
+encoding//src/com/dao/GradeDAO/GradeDAOImpl.java=UTF-8
+encoding//src/com/dao/PlayerDAO/IPlayerDAO.java=UTF-8
+encoding//src/com/dao/PlayerDAO/Player.java=UTF-8
+encoding//src/com/dao/PlayerDAO/PlayerDAOImpl.java=UTF-8
+encoding//src/com/dao/PlayerDAO/PlayerDAOProxy.java=UTF-8
+encoding//src/com/swing/SwingTest/MainJFrame.java=UTF-8
+encoding//src/com/swing/SwingTest/MyJFrameTest.java=UTF-8
+encoding//src/com/swing/SwingTest/PlayerManageJFrame.java=UTF-8
+encoding//src/test/Test.java=UTF-8
